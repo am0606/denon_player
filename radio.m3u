@@ -1,0 +1,31 @@
+#EXTM3U
+#EXTINF:-1, Orfej
+http://orfeyfm.hostingradio.ru:8034/orfeyfm192.mp3
+#EXTINF:-1, Orfej: Klassika bez granic
+https://orfeyfm.hostingradio.ru:8034/orpheuscwb192.mp3
+#EXTINF:-1, Orfej: Klassika krupnyh form
+https://channels.fonotron.ru:8000/Chan_8_192.mp3
+#EXTINF:-1, Orfej: Klassika kinomuzyki
+https://channels.fonotron.ru:8000/Chan_9_192.mp3
+#EXTINF:-1, Orfej: Populjarnaja klassika
+https://channels.fonotron.ru:8000/Chan_72_256.mp3
+#EXTINF:-1, Orfej: Russkaja klassika
+https://channels.fonotron.ru:8000/Chan_73_128.mp3
+#EXTINF:-1, Orfej: Simfonicheskaja muzyka
+https://channels.fonotron.ru:8000/Chan_74_256.mp3
+#EXTINF:-1, Orfej: Muzyka m'juziklov
+https://channels.fonotron.ru:8000/Chan_66_256.mp3
+#EXTINF:-1, Klassik
+http://cfm.jazzandclassic.ru:14534/rcstream.mp3
+#EXTINF:-1, Gold (Radio Klassik)
+https://jfm1.hostingradio.ru:14536/gcstream.mp3
+#EXTINF:-1, Populjarnaja klassika
+https://icecast-radioclassica.cdnvideo.ru/sberzvuk
+#EXTINF:-1, Simfonija FM
+https://radiorecord.hostingradio.ru/symph96.aacp
+#EXTINF:-1, Classic (Zajcev.FM)
+https://zaycevfm.cdnvideo.ru/ZaycevFM_classic_256.mp3
+#EXTINF:-1, Simfonii Mocarta (Pure Mozart - Klassik Radio)
+https://klassikr.streamabc.net/klr-puremozart-mp3-192-2032482
+#EXTINF:-1, RNO
+https://rnor.ru/data/radioRNO/radio256.mp3
