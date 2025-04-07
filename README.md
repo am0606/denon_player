@@ -36,6 +36,7 @@ The program can be used with non-default `m3u` file:
 ```
 python radio.py yourfile.m3u
 ```
+kivy version consists of module 'main.py'. Handwritten list of radio stations should be created in 'radios' structure (list of dicts).
 
 ## How to build
 
@@ -46,7 +47,16 @@ by the following command:
 ```
 wine C:/users/<user>/AppData/Local/Programs/Python/Python38/Scripts/pyinstaller.exe --noupx --onefile radio.py
 ```
+To install additional packages:
 
+```
+wine C:/users/<user>/AppData/Local/Programs/Python/Python38/Scripts/pip.exe install kivy
+```
+To build Android version for main.py file with kivi interface:
+```
+buildozer android clean
+buildozer android debug deploy run
+```
 
 ## License
 
