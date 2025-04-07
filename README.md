@@ -36,7 +36,7 @@ The program can be used with non-default `m3u` file:
 ```
 python radio.py yourfile.m3u
 ```
-kivy version consists of module 'main.py'. Handwritten list of radio stations should be created in 'radios' structure (list of dicts).
+kivy version consists of a single `main.py` module. List of radio stations is hardcoded in `radios` structure (list of dicts).
 
 ## How to build
 
